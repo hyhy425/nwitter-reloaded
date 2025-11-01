@@ -20,14 +20,14 @@ const Username = styled.span`
 `;
 
 const Payload = styled.p`
-  margin-top: 10px;
+  margin: 10px 0;
   font-size: 18px;
   overflow-wrap: anywhere;
 `;
 
 const TextArea = styled.textarea`
   width: 100%;
-  margin-top: 10px;
+  margin: 10px 0;
   font-size: 16px;
   padding: 10px;
   border-radius: 10px;

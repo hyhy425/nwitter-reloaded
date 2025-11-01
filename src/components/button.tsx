@@ -13,7 +13,6 @@ const StyledButton = styled.button`
   padding: 5px 10px;
   text-transform: uppercase;
   border-radius: 5px;
-  margin-top: 10px;
   cursor: pointer;
   margin-right: 5px;
   &:active {
